@@ -1,6 +1,5 @@
 - 👋 Hi, I’m jagadeesh
-- 👀 my area of interest is  machine learning , deep learning , computer vision ,NLP   .
-- 🌱 I’m currently working in one NLP based project .
+- I have Good knowledge and experience in python backend development (Django/Flask/FastAPI),azure data engineering, AI , ML ..
 - 📫 you can contact me though   email : jagadeesh6jaga@gmail.com .
 
 <!---
